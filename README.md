@@ -121,7 +121,7 @@ Liv Loot: Launch Site
 
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api?
 
-<div align="center">
+<!-- <div align="center">
 
 # 👾 Hi there, I'm Bhuvaneshwaran M!
 
@@ -195,7 +195,7 @@ Here is where I:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-</div>
+</div> -->
 
 <!--
 **uv-i/uv-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
