@@ -41,9 +41,9 @@ Here is where I:
 
 ### 🏆 Featured Professional Work & Milestones
 
-</div>
+> *"I have overseen game production, sprint management, and shipped titles with over **100k+ downloads**."*
 
-I have overseen game production, sprint management, and shipped titles with over **100k+ downloads**.
+</div>
 
 #### 📱 Mobile Games (Shipped)
 * **🏛️ Makkalin Mudhalvar:**
