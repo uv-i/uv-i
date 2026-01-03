@@ -29,11 +29,15 @@ Here is where I:
 
 ---
 
+<div align="center">
+
 ### 🛠️ The Arsenal (Tech Stack)
 
 | Game Engines | Languages | Backend & Cloud | Tools & VC |
 | :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Cocos-555555?style=for-the-badge&logo=cocos&logoColor=green" /> <br> <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <br> **VERSE** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Photon-005571?style=for-the-badge&logo=photon&logoColor=white" /> <br> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white" /> |
+
+</div>
 
 ---
 
@@ -69,9 +73,13 @@ I have overseen game production, sprint management, and shipped titles with over
     * [Check out this island!](www.fortnite.com/@playpalrealms/5872-1683-6309)
 
 #### 🌐 Web Projects
-*Hunter's Haul:* [Launch Site](https://huntershaul.netlify.app/)
-<br>
-*Liv Loot:* [Launch Site](https://liv-loot-launch.netlify.app/)
+*  ** Hunter's Haul:**
+    * An Endless Runner as a playable ad created in Cocos.
+    * [Launch Site](https://huntershaul.netlify.app/)
+*  ** Liv Loot:**
+    * A combination of Bubble Shooter and Brick Breaker as a playable ad created in Cocos.
+    * [Launch Site](https://liv-loot-launch.netlify.app/)
+
 ---
 
 <!-- <div align="center">
