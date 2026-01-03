@@ -73,10 +73,10 @@ I have overseen game production, sprint management, and shipped titles with over
     * [Check out this island!](www.fortnite.com/@playpalrealms/5872-1683-6309)
 
 #### 🌐 Web Projects
-*  ** Hunter's Haul:**
+*  **Hunter's Haul:**
     * An Endless Runner as a playable ad created in Cocos.
     * [Launch Site](https://huntershaul.netlify.app/)
-*  ** Liv Loot:**
+*  **Liv Loot:**
     * A combination of Bubble Shooter and Brick Breaker as a playable ad created in Cocos.
     * [Launch Site](https://liv-loot-launch.netlify.app/)
 
