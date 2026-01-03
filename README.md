@@ -63,7 +63,7 @@ I have overseen game production, sprint management, and shipped titles with over
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### ⚡ GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=uv-i&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
@@ -73,7 +73,7 @@ I have overseen game production, sprint management, and shipped titles with over
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-</div>
+</div> -->
 
 <!--
 **uv-i/uv-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
