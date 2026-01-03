@@ -18,14 +18,14 @@
 
 **Welcome to my personal code garage!** 🛠️
 
-[cite_start]While I spend my days working as a **Game Developer** delivering scalable projects for studios like *Visceral Technology* and formerly *Hornbillfx*[cite: 17, 24], this GitHub profile is my **personal playground**.
+While I spend my days working as a **Game Developer** delivering scalable projects for studios like *Visceral Technology* and formerly *Hornbillfx*, this GitHub profile is my **personal playground**.
 
 Here is where I:
 * 🧪 **Experiment** with new tech stacks (like UEFN, Verse, and React Three Fiber).
 * 🎮 **Publish** my own indie game concepts and prototypes.
 * 🌐 **Build** personal web experiences.
 
-> [cite_start]*"I am committed to continuous improvement and innovation in the rapidly evolving field of game development."* [cite: 5]
+> *"I am committed to continuous improvement and innovation in the rapidly evolving field of game development."*
 
 ---
 
@@ -39,26 +39,27 @@ Here is where I:
 
 ### 🏆 Featured Professional Work & Milestones
 
-[cite_start]I have overseen game production, sprint management, and shipped titles with over **100k+ downloads**[cite: 26, 30].
+I have overseen game production, sprint management, and shipped titles with over **100k+ downloads**.
 
 #### 📱 Mobile Games (Shipped)
 * **🏛️ Makkalin Mudhalvar:** A turn-based political strategy game. I designed the UI/UX and managed event-driven narratives.
-    * [Google Play](https://play.google.com/store/apps/details?id=com.thepenindia.namadhu_dravidam&hl=en_IN) | [cite_start][App Store](https://apps.apple.com/in/app/makkalin-mudhalvar/id6504998018) [cite: 30, 31, 35]
+    * [Google Play](https://play.google.com/store/apps/details?id=com.thepenindia.namadhu_dravidam&hl=en_IN) | [App Store](https://apps.apple.com/in/app/makkalin-mudhalvar/id6504998018)
 * **🦁 Guess in 10:** A multiplayer trivia game (50k+ downloads). I built the on-demand content delivery system using Firebase to reduce APK size.
-    * [Google Play](https://play.google.com/store/apps/details?id=com.skillmatics.guessin10&hl=en) | [cite_start][App Store](https://apps.apple.com/in/app/guess-in-10-by-skillmatics/id1532193910) [cite: 41, 47]
+    * [Google Play](https://play.google.com/store/apps/details?id=com.skillmatics.guessin10&hl=en) | [App Store](https://apps.apple.com/in/app/guess-in-10-by-skillmatics/id1532193910)
 * **📖 Fairside Stories:** Values-focused RPG for kids. Implemented tweening animation systems and optimized build size by 118MB.
-    * [cite_start][Download Link](https://fairside-stories.en.softonic.com/android) [cite: 50, 55, 57]
+    * [Download Link](https://fairside-stories.en.softonic.com/android)
 * **🐘 Harmony: Heroes of Elephantia:** An educational dungeon crawler with randomly generated levels.
-    * [cite_start][Google Play](https://play.google.com/store/apps/details?id=com.CincinnatiZoo.Harmony&hl=en_IN) [cite: 66, 68]
+    * [Google Play](https://play.google.com/store/apps/details?id=com.CincinnatiZoo.Harmony&hl=en_IN)
 
 #### 🔮 AR & Emerging Tech
 * **💸 Grameen Guru:** An AR financial literacy tool. I engineered the immersive AR fallback experience and multilingual avatar systems.
-    * [cite_start][Google Play](https://play.google.com/store/apps/details?id=com.Grameen%20Foundation.GrameenGuru&hl=en_IN) [cite: 87, 93]
-* [cite_start]**🏰 Fortnite Creative (UEFN):** Developed "Guess Who" maps using **Verse**, implementing "Best of 5" modes and random character selection logic[cite: 20, 21].
+    * [Google Play](https://play.google.com/store/apps/details?id=com.Grameen%20Foundation.GrameenGuru&hl=en_IN)
+* **🏰 Fortnite Creative (UEFN):** Developed "Guess Who" maps using **Verse**, implementing "Best of 5" modes and random character selection logic.
 
 #### 🌐 Web Projects
-*Hunter's Haul:** [Launch Site](https://huntershaul.netlify.app/)
-*Liv Loot:** [Launch Site](https://liv-loot-launch.netlify.app/)
+*Hunter's Haul:* [Launch Site](https://huntershaul.netlify.app/)
+<br>
+*Liv Loot:* [Launch Site](https://liv-loot-launch.netlify.app/)
 
 ---
 
