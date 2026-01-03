@@ -42,25 +42,36 @@ Here is where I:
 I have overseen game production, sprint management, and shipped titles with over **100k+ downloads**.
 
 #### 📱 Mobile Games (Shipped)
-* **🏛️ Makkalin Mudhalvar:** A turn-based political strategy game. I designed the UI/UX and managed event-driven narratives.
+* **🏛️ Makkalin Mudhalvar:**
+    * A turn-based political strategy game.
+    * I designed the UI/UX and managed event-driven narratives.
     * [Google Play](https://play.google.com/store/apps/details?id=com.thepenindia.namadhu_dravidam&hl=en_IN) | [App Store](https://apps.apple.com/in/app/makkalin-mudhalvar/id6504998018)
-* **🦁 Guess in 10:** A multiplayer trivia game (50k+ downloads). I built the on-demand content delivery system using Firebase to reduce APK size.
+* **🦁 Guess in 10:**
+    * A multiplayer trivia game (50k+ downloads).
+    * I built the on-demand content delivery system using Firebase to reduce APK size.
     * [Google Play](https://play.google.com/store/apps/details?id=com.skillmatics.guessin10&hl=en) | [App Store](https://apps.apple.com/in/app/guess-in-10-by-skillmatics/id1532193910)
-* **📖 Fairside Stories:** Values-focused RPG for kids. Implemented tweening animation systems and optimized build size by 118MB.
+* **📖 Fairside Stories:**
+    * Values-focused RPG for kids.
+    * Implemented tweening animation systems and optimized build size by 118MB.
     * [Download Link](https://fairside-stories.en.softonic.com/android)
-* **🐘 Harmony: Heroes of Elephantia:** An educational dungeon crawler with randomly generated levels.
+* **🐘 Harmony: Heroes of Elephantia:**
+    * An educational dungeon crawler with randomly generated levels.
     * [Google Play](https://play.google.com/store/apps/details?id=com.CincinnatiZoo.Harmony&hl=en_IN)
 
 #### 🔮 AR & Emerging Tech
-* **💸 Grameen Guru:** An AR financial literacy tool. I engineered the immersive AR fallback experience and multilingual avatar systems.
+* **💸 Grameen Guru:**
+    * An AR financial literacy tool.
+    * I engineered the immersive AR fallback experience and multilingual avatar systems.
     * [Google Play](https://play.google.com/store/apps/details?id=com.Grameen%20Foundation.GrameenGuru&hl=en_IN)
-* **🏰 Fortnite Creative (UEFN):** Developed "Guess Who" maps using **Verse**, implementing "Best of 5" modes and random character selection logic.
+* **🏰 Fortnite Creative (UEFN):**
+    * Developed "Guess Who" maps using **Verse**, implementing "Best of 5" modes and random character selection logic.
+    * Created multiple features, including **Shop**, **Daily Reward Systems**, **UI Integration** in **Youtuber Tycoon** from Visceral.
+    * [Check out this island!](www.fortnite.com/@playpalrealms/5872-1683-6309)
 
 #### 🌐 Web Projects
 *Hunter's Haul:* [Launch Site](https://huntershaul.netlify.app/)
 <br>
 *Liv Loot:* [Launch Site](https://liv-loot-launch.netlify.app/)
-
 ---
 
 <!-- <div align="center">
