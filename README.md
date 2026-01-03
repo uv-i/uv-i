@@ -21,15 +21,15 @@
 While I spend my days working as a **Game Developer** delivering scalable projects for studios like *Visceral Technology* and formerly *Hornbillfx*, this GitHub profile is my **personal playground**.
 
 Here is where I:
-* 🧪 **Experiment** with new tech stacks (like UEFN, Verse, and React Three Fiber).
+* 🧪 **Experiment** with new tech stacks (like Unity3D, Cocos Creator, and React Three Fiber).
 * 🎮 **Publish** my own indie game concepts and prototypes.
 * 🌐 **Build** personal web experiences.
+
+<div align="center">
 
 > *"I am committed to continuous improvement and innovation in the rapidly evolving field of game development."*
 
 ---
-
-<div align="center">
 
 ### 🛠️ The Arsenal (Tech Stack)
 
