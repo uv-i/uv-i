@@ -10,11 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhuvaneshwaran-m-76588563/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1022bhuvanesh@gmail.com)
 
-</div>
-
 ---
 
 ### 🚀 About This Space (My Digital Lab)
+
+</div>
 
 **Welcome to my personal code garage!** 🛠️
 
@@ -37,11 +37,11 @@ Here is where I:
 | :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Cocos-555555?style=for-the-badge&logo=cocos&logoColor=green" /> <br> <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <br> **VERSE** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Photon-005571?style=for-the-badge&logo=photon&logoColor=white" /> <br> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white" /> |
 
-</div>
-
 ---
 
 ### 🏆 Featured Professional Work & Milestones
+
+</div>
 
 I have overseen game production, sprint management, and shipped titles with over **100k+ downloads**.
 
