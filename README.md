@@ -3,7 +3,7 @@
 # 👾 Hi there, I'm Bhuvaneshwaran M!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Game+Developer+(7%2B+Years);Unity+3D+%26+C%23+Specialist;Unreal+Editor+for+Fortnite+(UEFN)+Expert;Crafting+Immersive+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5005F2&center=true&vCenter=true&width=600&lines=Game+Developer+(7%2B+Years);Unity+3D+%26+C%23+Specialist;Unreal+Editor+for+Fortnite+(UEFN)+Expert;Crafting+Immersive+Digital+Experiences" alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-ff0055?style=for-the-badge&logo=wix)](https://1022bhuvanesh.wixsite.com/portfolio)
